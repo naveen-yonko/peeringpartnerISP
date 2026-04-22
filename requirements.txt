@@ -1,0 +1,4 @@
+# peering-partner-prediction requirements
+requests
+pandas
+numpy
